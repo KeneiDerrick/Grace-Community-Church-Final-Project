@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PS Test",
+    "email": "ps@test.com",
+    "message": "Hello from PS",
+    "date": "2025-11-04T11:53:21.957Z"
+  },
+  {
+    "name": "Tester",
+    "email": "tester@example.com",
+    "message": "Hello from test",
+    "date": "2025-11-04T13:55:04.560Z"
+  },
+  {
+    "name": "AutoContact",
+    "email": "contact@example.com",
+    "message": "hello from test",
+    "date": "2025-11-05T08:00:07.983Z"
+  },
+  {
+    "name": "Automated Tester",
+    "email": "test@example.com",
+    "message": "Hello from automated test",
+    "date": "2025-11-05T09:37:20.991Z"
+  }
+]
